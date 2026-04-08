@@ -1,1 +1,1 @@
-# Stellar-Ellean
+# classfund-token
